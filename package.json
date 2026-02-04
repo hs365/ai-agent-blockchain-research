@@ -1,0 +1,24 @@
+{
+  "name": "ai-agent-blockchain-research",
+  "version": "1.0.0",
+  "description": "Research and tools for AI agent economics and blockchain integration",
+  "main": "moltbook_client.js",
+  "scripts": {
+    "start": "node moltbook_client.js",
+    "analyze": "node moltbook_ai_research.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "blockchain",
+    "agents",
+    "defi",
+    "research"
+  ],
+  "author": "XiaoWen-Agent",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
